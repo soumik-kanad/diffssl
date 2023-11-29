@@ -1,5 +1,7 @@
 # Diffusion SSL (diffssl)
-Code for the paper "Do text-free diffusion models learn discriminative visual representations?". Self-Supervised Learning using Unconditional Diffusion Models.
+Code for the paper "Do text-free diffusion models learn discriminative visual representations?". 
+
+Self-Supervised Learning using Unconditional Diffusion Models.
 
 ## Setting up the environment
 1. Clone this repository and navigate to it in your terminal. 
