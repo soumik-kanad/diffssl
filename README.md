@@ -1,5 +1,6 @@
 # Diffusion SSL (diffssl)
-Code for the paper "Do text-free diffusion models learn discriminative visual representations?". 
+### Code for the paper "[Do text-free diffusion models learn discriminative visual representations?](https://arxiv.org/abs/2311.17921)". <br />
+(This work supersedes "[Diffusion Models Beat GANs on Image Classification](https://arxiv.org/abs/2307.08702)".)
 
 Self-Supervised Learning using Unconditional Diffusion Models.
 
